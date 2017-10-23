@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{DA25F879-9158-44C5-B86C-AAB289A55622}|Default">
+  <MonoDevelop.Ide.ItemProperties.ParkingAudit PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CEC023B1-7B55-40BE-B7ED-F93B87FE1D07">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ParkingAudit>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParkingAudit/Main.storyboard">
+    <Files>
+      <File FileName="ParkingAudit/FirstViewController.cs" Line="59" Column="13" />
+      <File FileName="ParkingAudit/SecondViewController.cs" Line="1" Column="1" />
+      <File FileName="ParkingAudit/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

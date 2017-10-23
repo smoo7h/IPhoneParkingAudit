@@ -1,0 +1,12 @@
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/bin/iPhoneSimulator/Debug/ParkingAudit.exe
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/bin/iPhoneSimulator/Debug/ParkingAudit.pdb
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0.1/actool/_PartialAppManifest.items
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0.1/actool/_BundleResourceWithLogicalName.items
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0.1/optimized/
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/obj/iPhoneSimulator/Debug/ParkingAudit.csproj.CoreCompileInputs.cache
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/obj/iPhoneSimulator/Debug/ParkingAudit.exe
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/obj/iPhoneSimulator/Debug/ParkingAudit.pdb
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/obj/iPhoneSimulator/Debug/ParkingAudit.csprojResolveAssemblyReference.cache
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/bin/iPhoneSimulator/Debug/SQLite.Net.dll
+/Users/mmccann/Projects/ParkingAudit/ParkingAudit/bin/iPhoneSimulator/Debug/SQLite.Net.Platform.XamarinIOS.Unified.dll
